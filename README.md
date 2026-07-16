@@ -1,7 +1,7 @@
 ## ISS
 
 ### Slide 1
-<img src="assets/slides/slide1.png" width="900"/>
+<img src="assets/slides/slide1.jpg" width="900"/>
 
 ### Slide 2
 <img src="assets/slides/slide2.png" width="900"/>
